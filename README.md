@@ -6,13 +6,14 @@ Github Repository to store the information for the cybersecurity independent stu
 1. [Introduction](#introduction) 
 3. [General Essays](#general-essays) 
 4. [East-African Essays](#East-African-Essays)
-5. [Security+ Program](#security+-program)
-6. [SQL + Database Program](#fine-tuning-and-training)
-7. [Fortinet Basics](#results)
-8. [Threats, Risks, Mitigation](#what-i-would-like-to-continue)
-9. [Website Penetration](#what-i-would-like-to-continue)
-10. [Conclusion of Independent Study](#what-i-would-like-to-continue)
-11. [Sources and Citations](#sources-and-citations) 
+5. [Security+ Program](#security-program)
+6. [SQL + Database Program](#SQL-+-Database-Program)
+7. [Fortinet Basics](#fortinet-basics)
+8. [Threats, Risks, Mitigation](#Threats-Risks-Mitigation)
+9. [Website Penetration](#website-penetration)
+10. [What I would like to continue](#what-i-would-like-to-continue)
+11. [Conclusion of Independent Study](#conclusion-of-independent-study)
+12. [Sources and Citations](#sources-and-citations) 
 
 # Introduction 
 
@@ -39,7 +40,19 @@ Github Repository to store the information for the cybersecurity independent stu
 
  [[Back To Top](#table-of-contents)]
  
-# Data Collection 
+ # SQL + Database Program
+
+
+
+ [[Back To Top](#table-of-contents)]
+ 
+  # Fortinet Basics
+
+
+
+ [[Back To Top](#table-of-contents)]
+ 
+# Threats, Risks, Mitigation
 
 
 
@@ -47,7 +60,7 @@ Github Repository to store the information for the cybersecurity independent stu
  
  [[Back To Top](#table-of-contents)]
  
-# Model Usage 
+# Website Penetration
 
 
 
@@ -70,7 +83,7 @@ Github Repository to store the information for the cybersecurity independent stu
 
 [[Back To Top](#table-of-contents)]
 
-# Results 
+# Conclusion of Independent Study
 
 Since the model is a regression model, I expected within 0.10 of the expected value to be the margin of error. Result of testing the model on the test dataset: 
 
