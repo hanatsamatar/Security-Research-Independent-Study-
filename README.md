@@ -5,8 +5,8 @@ Github Repository to store the information for the cybersecurity independent stu
 # Table of Contents
 1. [Introduction](#introduction) 
 3. [General Essays](#general-essays) 
-4. [East-African Essays](#model-usage)
-5. [Security+ Program](#blockers)
+4. [East-African Essays](#East-African-Essays)
+5. [Security+ Program](#security+-program)
 6. [SQL + Database Program](#fine-tuning-and-training)
 7. [Fortinet Basics](#results)
 8. [Threats, Risks, Mitigation](#what-i-would-like-to-continue)
@@ -20,11 +20,25 @@ Github Repository to store the information for the cybersecurity independent stu
 
  [[Back To Top](#table-of-contents)]
  
- # General Essays
+ # East-African Essays
 
 
 
  [[Back To Top](#table-of-contents)]
+ 
+  # General Essays
+
+
+
+ [[Back To Top](#table-of-contents)]
+ 
+ 
+# Security+ Program 
+
+
+
+ [[Back To Top](#table-of-contents)]
+ 
 # Data Collection 
 
 
