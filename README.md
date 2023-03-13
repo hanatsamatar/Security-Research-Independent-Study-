@@ -4,7 +4,7 @@ Github Repository to store the information for the cybersecurity independent stu
 
 # Table of Contents
 1. [Introduction](#introduction) 
-3. [General Essays](#data-collection) 
+3. [General Essays](#general-essays) 
 4. [East-African Essays](#model-usage)
 5. [Security+ Program](#blockers)
 6. [SQL + Database Program](#fine-tuning-and-training)
@@ -20,6 +20,11 @@ Github Repository to store the information for the cybersecurity independent stu
 
  [[Back To Top](#table-of-contents)]
  
+ # General Essays
+
+
+
+ [[Back To Top](#table-of-contents)]
 # Data Collection 
 
 
