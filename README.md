@@ -7,7 +7,7 @@ Github Repository to store the information for the cybersecurity independent stu
 3. [General Essays](#general-essays) 
 4. [East-African Essays](#East-African-Essays)
 5. [Security+ Program](#security-program)
-6. [SQL + Database Program](#SQL-Database-Program)
+6. [SQL Database Program](#SQL-Database-Program)
 7. [Fortinet Basics](#fortinet-basics)
 8. [Threats, Risks, Mitigation](#Threats-Risks-Mitigation)
 9. [Website Penetration](#website-penetration)
