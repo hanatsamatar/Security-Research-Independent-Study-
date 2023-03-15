@@ -121,7 +121,9 @@ With this project specifically I was able to improve my overall flow and code ma
 
 # What I Would Like to Continue
 
-I've been really interested in continuing my project on cybersecurity in Africa. I think it's a region that's often overlooked, despite its rapidly growing digital landscape and untapped potential. There's just so much that could be done to improve cybersecurity in Africa, and I'd love to be a part of that effort. I'm particularly interested in exploring the current state of cybersecurity in different African countries and identifying the common threats and risks faced by businesses and individuals in the region. It's important to look at the effectiveness of existing policies and frameworks as well, to see what's working and what's not. I'm also curious about emerging technologies and trends in Africa and how they may impact cybersecurity in the future. With the rise of mobile payments, e-commerce, and social media, there's just so much potential for innovation and growth. Overall, I think there's a lot of opportunity for me to contribute to the field of cybersecurity by conducting research and analysis on the unique challenges and opportunities faced in Africa.
+I will continue to expand, through this reposirtory, potential technological implementations I could see being adopted and utilized. I think it's a region that's often overlooked, despite its rapidly growing digital landscape and untapped potential. There's just so much that could be done to improve cybersecurity in Africa, and I'd love to be a part of that effort. I'm particularly interested in exploring the current state of cybersecurity in different African countries and identifying the common threats and risks faced by businesses and individuals in the region. It's important to look at the effectiveness of existing policies and frameworks as well, to see what's working and what's not. I'm also curious about emerging technologies and trends in Africa and how they may impact cybersecurity in the future. 
+
+Overall, I think there's a lot of opportunity for me to contribute to the field of cybersecurity by conducting research and analysis on the unique challenges and opportunities faced in Africa.
 
 [[Back To Top](#table-of-contents)]
 
@@ -129,21 +131,21 @@ I've been really interested in continuing my project on cybersecurity in Africa.
 
 | File | Work Description |
 | --  | --- |
-| pdf from student | |
+| Ethical Penetration Test for AAA Washington, Chistopher Ijams | Heavily relied on reference to speed run my understanding of certain cybersecurity subjects, specifically on general penetration. |
 | source 1 | 
 | pdf from student | |
 | pdf from student | |
 | pdf from student | |
 | pdf from student | |
-| https://cloudsecurityalliance.org/ | Read a variety of resources, including research reports, guidance documents, and training programs |
+| https://cloudsecurityalliance.org/ | Read a variety of resources, including research reports, guidance documents, and training programs. |
 | pdf from student | |
 | pdf from student | |
-| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf | Government resource I referenced upon looking into the capstone study |
+| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf | Government resource I referenced upon looking into the capstone study. |
 | pdf from student | |
+| https://www.nist.gov/cyberframework | Government resource I referenced for general cybersecurity frameworks within the U.S.A |
 | pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
+| https://www.cisecurity.org/controls | Resource I used to go over the best practices you can use to strengthen your cybersecurity posture. |
+| https://www.cisa.gov/topics/cybersecurity-best-practices | Government resource I referenced for general cybersecurity frameworks within the U.S.A |
 | pdf from student | |
 | pdf from student | |
 | pdf from student | |
