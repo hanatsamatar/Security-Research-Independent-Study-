@@ -22,18 +22,6 @@ Hi Professor, here's my Github Repository for the Cybersecurity Independent Stud
 
  [[Back To Top](#table-of-contents)]
  
- # East-African Essays
-
-The East African essay section has information on various aspects of cybersecurity in the region. In particular, it contains detailed information on Hormuud, a telecommunications company based in Somalia that has been at the forefront of cybersecurity efforts in the country. 
-
-The essays provide insights into the company's role in securing Somalia's digital infrastructure and the challenges it faces in doing so. Additionally, the section explores the cybersecurity relevance of Hormuud's work and how it is contributing to the broader goal of creating a safe and secure digital ecosystem in East Africa.
-
-Furthermore, I used this section to also include information on Fortinet, a leading cybersecurity solutions provider, and its purpose in the region. The essays delve into how Fortinet is helping to address the unique cybersecurity challenges faced by East African countries, including the need to secure mobile networks and combat cybercrime. The section also looks at Fortinet's future vision for the region, including its plans to continue innovating and developing new solutions to stay ahead of emerging threats.
-
-Overall, the East African essay section provides a comprehensive view of the cybersecurity landscape in the region, highlighting the efforts of companies like Hormuud and Fortinet to create a safer digital environment. It offers valuable insights into the challenges and opportunities facing East Africa in terms of cybersecurity and serves as a valuable resource for anyone interested in this important topic.
-
-
- [[Back To Top](#table-of-contents)]
  
   # General Essays
 
@@ -48,7 +36,22 @@ Overall, the General essays section provides a wealth of information on a range 
  [[Back To Top](#table-of-contents)]
  
  
+  # East-African Essays
+
+
+The East African essay section has information on various aspects of cybersecurity in the region. In particular, it contains detailed information on Hormuud, a telecommunications company based in Somalia that has been at the forefront of cybersecurity efforts in the country. 
+
+The essays provide insights into the company's role in securing Somalia's digital infrastructure and the challenges it faces in doing so. Additionally, the section explores the cybersecurity relevance of Hormuud's work and how it is contributing to the broader goal of creating a safe and secure digital ecosystem in East Africa.
+
+Furthermore, I used this section to also include information on Fortinet, a leading cybersecurity solutions provider, and its purpose in the region. The essays delve into how Fortinet is helping to address the unique cybersecurity challenges faced by East African countries, including the need to secure mobile networks and combat cybercrime. The section also looks at Fortinet's future vision for the region, including its plans to continue innovating and developing new solutions to stay ahead of emerging threats.
+
+Overall, the East African essay section provides a comprehensive view of the cybersecurity landscape in the region, highlighting the efforts of companies like Hormuud and Fortinet to create a safer digital environment. It offers valuable insights into the challenges and opportunities facing East Africa in terms of cybersecurity and serves as a valuable resource for anyone interested in this important topic.
+
+ [[Back To Top](#table-of-contents)]
+ 
+ 
 # Security+ Program 
+
 
 The Security+ Program section is a collection of my notes from a CompTIA prep course taught by Mike Chapple. The course is divided into various certification preparation sections, each covering a different aspect of cybersecurity. These sections include:
 
@@ -70,7 +73,6 @@ Endpoint Security Design and Implementation,
 
 Cloud Security Design and Implementation,
 
-
  [[Back To Top](#table-of-contents)]
  
  # SQL Database Program
@@ -85,7 +87,6 @@ Overall, the SQL-MySQL for Data Analytics and Business Intelligence section is a
  [[Back To Top](#table-of-contents)]
  
   # Fortinet Basics
-
 
 
  [[Back To Top](#table-of-contents)]
