@@ -91,9 +91,7 @@ Overall, the SQL-MySQL for Data Analytics and Business Intelligence section is a
  
 # Threats, Risks, Mitigation
 
-
-
-![speed ](https://user-images.githubusercontent.com/72223941/207712744-0d24dda3-3e00-47d8-a348-446f7457fc0e.png)
+Protecting infrastructure is a critical aspect of cybersecurity, and requires a comprehensive understanding of the various threats, risks, and mitigations involved. In this page of notes, I dive into some of the key considerations for protecting infrastructure, including the various types of threats that organizations may face, the risks associated with these threats, and the different mitigations that can be put in place to reduce these risks.
  
  [[Back To Top](#table-of-contents)]
  
@@ -103,7 +101,6 @@ Overall, the SQL-MySQL for Data Analytics and Business Intelligence section is a
 
 ![nvidia model](https://user-images.githubusercontent.com/72223941/207716475-2092c282-09e8-4beb-82d8-2f772b821fa5.png)
 
-![model_diagram](https://user-images.githubusercontent.com/72223941/207716028-c118a944-90aa-498b-b239-fedfee6dac49.png)
 
 [[Back To Top](#table-of-contents)]
 
