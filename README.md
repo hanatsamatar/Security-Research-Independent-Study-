@@ -11,9 +11,10 @@ Github Repository to store the information for the cybersecurity independent stu
 7. [Fortinet Basics](#fortinet-basics)
 8. [Threats, Risks, Mitigation](#Threats-Risks-Mitigation)
 9. [Website Penetration](#website-penetration)
-10. [Conclusion of Independent Study](#conclusion-of-independent-study)
-11. [What I would like to continue](#what-i-would-like-to-continue)
-12. [Sources and Citations](#sources-and-citations) 
+10. [Blockers](#blockers)
+11. [Conclusion of Independent Study](#conclusion-of-independent-study)
+12. [What I would like to continue](#what-i-would-like-to-continue)
+13. [Sources and Citations](#sources-and-citations) 
 
 # Introduction 
 
