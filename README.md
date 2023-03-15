@@ -72,7 +72,7 @@ Cloud Security Design and Implementation,
 
  [[Back To Top](#table-of-contents)]
  
- # SQL + Database Program
+ # SQL Database Program
 
 The SQL-MySQL for Data Analytics and Business Intelligence section is a collection of my resources and documentation aimed at providing insights into using SQL and MySQL for data analytics and business intelligence. While the section is mostly completed, there are ongoing efforts to dive deeper into the topics covered and provide more detailed information.
 
