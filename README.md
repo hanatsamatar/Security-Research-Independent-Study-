@@ -51,7 +51,7 @@ Overall, the General essays section provides a wealth of information on a range 
 
 The Security+ Program section is a collection of my notes from a CompTIA prep course taught by Mike Chapple. The course is divided into various certification preparation sections, each covering a different aspect of cybersecurity. These sections include:
 
-Threats, attacks, and vulnerabilities,
+**Threats, attacks, and vulnerabilities,
 
 Secure code design and implementation, 
 
@@ -67,7 +67,7 @@ Governance, Risk, and compliance,
 
 Endpoint Security Design and Implementation,  
 
-Cloud Security Design and Implementation,  
+Cloud Security Design and Implementation, ** 
 
 
  [[Back To Top](#table-of-contents)]
