@@ -23,6 +23,13 @@ Welcome to my Github Repository for the Cybersecurity Independent Study. This re
  
  # East-African Essays
 
+The East African essay section has information on various aspects of cybersecurity in the region. In particular, it contains detailed information on Hormuud, a telecommunications company based in Somalia that has been at the forefront of cybersecurity efforts in the country. 
+
+The essays provide insights into the company's role in securing Somalia's digital infrastructure and the challenges it faces in doing so. Additionally, the section explores the cybersecurity relevance of Hormuud's work and how it is contributing to the broader goal of creating a safe and secure digital ecosystem in East Africa.
+
+Furthermore, I used this section to also include information on Fortinet, a leading cybersecurity solutions provider, and its purpose in the region. The essays delve into how Fortinet is helping to address the unique cybersecurity challenges faced by East African countries, including the need to secure mobile networks and combat cybercrime. The section also looks at Fortinet's future vision for the region, including its plans to continue innovating and developing new solutions to stay ahead of emerging threats.
+
+Overall, the East African essay section provides a comprehensive view of the cybersecurity landscape in the region, highlighting the efforts of companies like Hormuud and Fortinet to create a safer digital environment. It offers valuable insights into the challenges and opportunities facing East Africa in terms of cybersecurity and serves as a valuable resource for anyone interested in this important topic.
 
 
  [[Back To Top](#table-of-contents)]
