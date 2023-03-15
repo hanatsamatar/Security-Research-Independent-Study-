@@ -118,7 +118,7 @@ With this project specifically I was able to improve my overall flow and code ma
 
 # What I Would Like to Continue
 
-
+I've been really interested in continuing my project on cybersecurity in Africa. I think it's a region that's often overlooked, despite its rapidly growing digital landscape and untapped potential. There's just so much that could be done to improve cybersecurity in Africa, and I'd love to be a part of that effort. I'm particularly interested in exploring the current state of cybersecurity in different African countries and identifying the common threats and risks faced by businesses and individuals in the region. It's important to look at the effectiveness of existing policies and frameworks as well, to see what's working and what's not. I'm also curious about emerging technologies and trends in Africa and how they may impact cybersecurity in the future. With the rise of mobile payments, e-commerce, and social media, there's just so much potential for innovation and growth. Overall, I think there's a lot of opportunity for me to contribute to the field of cybersecurity by conducting research and analysis on the unique challenges and opportunities faced in Africa.
 
 [[Back To Top](#table-of-contents)]
 
