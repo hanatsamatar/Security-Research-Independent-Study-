@@ -74,6 +74,11 @@ Cloud Security Design and Implementation,
  
  # SQL + Database Program
 
+The SQL-MySQL for Data Analytics and Business Intelligence section is a collection of my resources and documentation aimed at providing insights into using SQL and MySQL for data analytics and business intelligence. While the section is mostly completed, there are ongoing efforts to dive deeper into the topics covered and provide more detailed information.
+
+In particular, the section was inspired from the documentation by Christopher Ijams on ethical penetration testing for AAA Washington, which offers valuable insights into the importance of ethical hacking and penetration testing in ensuring the security of digital infrastructure. The documentation covers various aspects of ethical hacking, including vulnerability scanning, password cracking, and social engineering, and provides practical guidance on how to conduct these activities in an ethical and responsible manner.
+
+Overall, the SQL-MySQL for Data Analytics and Business Intelligence section is a valuable resource for anyone looking to gain a deeper understanding of how SQL and MySQL can be used for data analytics and business intelligence, as well as for those interested in ethical hacking and penetration testing. 
 
 
  [[Back To Top](#table-of-contents)]
