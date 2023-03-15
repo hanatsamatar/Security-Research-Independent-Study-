@@ -17,7 +17,7 @@ Github Repository to store the information for the cybersecurity independent stu
 
 # Introduction 
 
-
+Welcome to my Github Repository for the Cybersecurity Independent Study. This repository is intended to be a comprehensive resource for all things related to cybersecurity, with a specific focus on East Africa. Here, you will find summaries and essays on various cybersecurity sectors, ranging from network security to cryptography, as well as deep dives into specific topics such as malware analysis and incident response. The aim is to provide a thorough understanding of the current state of cybersecurity, both globally and within East Africa, as well as its relevance and importance in the region.
 
  [[Back To Top](#table-of-contents)]
  
