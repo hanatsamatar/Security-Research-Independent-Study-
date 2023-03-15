@@ -97,32 +97,20 @@ Protecting infrastructure is a critical aspect of cybersecurity, and requires a 
  
 # Website Penetration
 
-
-
-![nvidia model](https://user-images.githubusercontent.com/72223941/207716475-2092c282-09e8-4beb-82d8-2f772b821fa5.png)
+The Website Penetration Tests/Ethical Hacking section of the cybersecurity independent study explores the basics of multiple software tools that are commonly used in ethical hacking and penetration testing. These include port scanners, vulnerability scanners, web application scanners, password cracking tools, exploitation frameworks, and network sniffers and protocol analyzers. The section provides examples of popular tools within each category, such as Nmap, Nessus, Burp Suite, John the Ripper, Metasploit, and Wireshark. Additionally, the section frequently references the capstone project provided by the professor as a means of understanding key terms and concepts in the context of a real-world scenario. By learning about and practicing with these tools, students can gain a deeper understanding of how to identify and exploit vulnerabilities in various types of systems and applications, ultimately enhancing their skills in ethical hacking and penetration testing.
 
 
 [[Back To Top](#table-of-contents)]
 
 # Blockers 
 
+Some technical understanding of certain material within the independent courses. (Security + and SQL Database)
 
 [[Back To Top](#table-of-contents)]
 
 # Conclusion of Independent Study
 
-Since the model is a regression model, I expected within 0.10 of the expected value to be the margin of error. Result of testing the model on the test dataset: 
-
-![ddataset](https://user-images.githubusercontent.com/72223941/207722255-f1a113d5-5239-4618-82a0-32842cafec94.png)
-
-The accuracy problem doesn't return the best results due to the high volume of noise and bad data, however it still preforms well when used to control the vehicle. Even after adding more data however to learn from bad situations, it would still often get stuck on basic manuevers.
-
-Here's an example of it running well on the simple map: 
-
-[YouTube Video](https://youtu.be/-1cM-NEqQuY).
-
-
-Overall, this project taught me a lot about perservering to figure out new subjects. Similarly the Final Group Project - Road Sign Detection, and overall class material has taken me from understanding the utmost basics of detection, to actually crafting projects that utilize computer vision in multiple different ways.
+Overall, this project taught me a lot about perservering to figure out new subjects. 
 
 With this project specifically I was able to improve my overall flow and code management when working with tools like Visual Studio, GitHub, General Documents, and other softwares in which I slowly increased my technical skills. 
 
@@ -138,8 +126,37 @@ With this project specifically I was able to improve my overall flow and code ma
 
 | File | Work Description |
 | --  | --- |
-| `dataset.py` | |
-| `inference.py` | 
+| pdf from student | |
+| source 1 | 
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
+| pdf from student | |
 
 
 
