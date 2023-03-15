@@ -135,10 +135,10 @@ I've been really interested in continuing my project on cybersecurity in Africa.
 | pdf from student | |
 | pdf from student | |
 | pdf from student | |
+| https://cloudsecurityalliance.org/ | Read a variety of resources, including research reports, guidance documents, and training programs |
 | pdf from student | |
 | pdf from student | |
-| pdf from student | |
-| pdf from student | |
+| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf | Government resource I referenced upon looking into the capstone study |
 | pdf from student | |
 | pdf from student | |
 | pdf from student | |
