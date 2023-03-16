@@ -1,6 +1,8 @@
 # Security-Research-Independent-Study-
 Github Repository to store the information for the cybersecurity independent study
 
+Time-Log:
+![timelog pie chart](https://user-images.githubusercontent.com/72223941/225713308-fbf66faa-5e56-4c86-ad3c-8ced40fac829.png)
 
 # Table of Contents
 1. [Introduction](#introduction) 
