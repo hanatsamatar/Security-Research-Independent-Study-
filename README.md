@@ -134,32 +134,28 @@ Overall, I think there's a lot of opportunity for me to contribute to the field 
 
 | File | Work Description |
 | --  | --- |
-| Ethical Penetration Test for AAA Washington, Chistopher Ijams | Heavily relied on reference to speed run my understanding of certain cybersecurity subjects, specifically on general penetration. |
-| source 1 | 
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| https://cloudsecurityalliance.org/ | Read a variety of resources, including research reports, guidance documents, and training programs. |
-| pdf from student | |
-| pdf from student | |
-| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf | Government resource I referenced upon looking into the capstone study. |
-| pdf from student | |
+| Ethical Penetration Test for AAA Washington, Chistopher Ijams | Heavily relied on reference to speed run my understanding of certain cybersecurity subjects, specifically on general penetration |
+| https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/ | Udemy SQL Course |
+| https://www.linkedin.com/learning/comptia-security-plus-sy0-601-cert-prep-10-governance-risk-and-compliance | Security+ Prep Course  |
+| https://www.trellix.com/en-us/security-awareness/operations/what-is-soc.html | Used to go over Security Operations |
+| https://www.ibm.com/topics/security-operations-center | Used to go over Security Operations |
+| https://www.crowdstrike.com/cybersecurity-101/zero-trust-security/ | Utilized to understand more about ZTA |
+| https://www.insidesecure.com/Company/More/whitepapers/Secure-Networking | Used to go over Secure Networking |
+| https://start.paloaltonetworks.com/why-next-gen-sd-wan-is-the-solution-for-you?utm_source=google-jg-amer-sase&utm_medium=paid_search&utm_term=sdn%20networking&utm_campaign=google-sase-sdwan-amer-us-lead_gen-en&utm_content=gs-18629484603-142165738483-628857027117&sfdcid=7014u000001hB44AAE&gclid=CjwKCAjw_MqgBhAGEiwAnYOAesxgRs7aDdTP9vJkv-9TILdEj0oi_lFr-J7vaqweXdxdVVRqi0N3nhoCofgQAvD_BwE | Used as a source for Netowrking Operations |
+| https://cloudsecurityalliance.org/ | Read a variety of resources, including research reports, guidance documents, and training programs |
+| https://www.techtarget.com/searchsecurity/definition/Security-Operations-Center-SOC | Used to go over Security Operations |
+| https://web.mit.edu/15.053/www/AMP-Chapter-08.pdf | Used as a source for Networking |
+| https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-146.pdf | Government resource I referenced upon looking into the capstone study |
+| https://www.nsf.gov/pubs/2022/nsf22572/nsf22572.htm#:~:text=An%20Open%2DSource%20Ecosystem%20(OSE,an%20open%2Dsource%20licensing%20model. | Used to go over Open Ecosystems |
 | https://www.nist.gov/cyberframework | Government resource I referenced for general cybersecurity frameworks within the U.S.A |
-| pdf from student | |
+| https://www.ics.uci.edu/~wscacchi/Presentations/Scacchi-OSS-Ecosystems-7July15.pdf |  Used to go over Open Ecosystems |
 | https://www.cisecurity.org/controls | Resource I used to go over the best practices you can use to strengthen your cybersecurity posture. |
 | https://www.cisa.gov/topics/cybersecurity-best-practices | Government resource I referenced for general cybersecurity frameworks within the U.S.A |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
-| pdf from student | |
+| https://www.garoweonline.com/en/news/press-releases/hormuud-telecom-attends-mwc23-the-world-s-largest-tech-telco-conference-in-barcelona | Somali Essay Source |
+| https://qz.com/new-platform-eases-cash-aid-transfers-to-rural-somalia-1850069213 | Somali Essay Source |
+| https://www.ibm.com/docs/en/datapower-gateway/10.0.1?topic=commands-sql-data-source | SQL Source |
+
+
 
 
 
