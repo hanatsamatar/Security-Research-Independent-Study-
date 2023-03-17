@@ -33,7 +33,7 @@ The General essays section contains detailed information on a range of topics, i
 
 For example, the section explores the latest developments in cloud security and how organizations can ensure the safety and security of their data when leveraging cloud-based services. It also looks at the importance of secure networking and how organizations can create a robust and resilient network architecture that protects against cyber threats.
 
-Overall, the General essays section provides a wealth of information on a range of important cybersecurity topics, offering valuable insights and practical guidance; a takeaway which inspired my pursuit for understanding these specific mesh architecture types.
+The General essays section provides a wealth of information on a range of important cybersecurity topics, offering valuable insights and practical guidance; a takeaway which inspired my pursuit for understanding these specific mesh architecture types.
 
 
  [[Back To Top](#table-of-contents)]
@@ -48,7 +48,7 @@ The essays provide insights into the company's role in securing Somalia's digita
 
 Furthermore, I used this section to also include information on Fortinet, a leading cybersecurity solutions provider, and its purpose in the region. The essays delve into how Fortinet is helping to address the unique cybersecurity challenges faced by East African countries, including the need to secure mobile networks and combat cybercrime. The section also looks at Fortinet's future vision for the region, including its plans to continue innovating and developing new solutions to stay ahead of emerging threats.
 
-Overall, the East African essay section provides a comprehensive view of the cybersecurity landscape in the region, highlighting the efforts of companies like Hormuud and Fortinet to create a safer digital environment. It offers valuable insights into the challenges and opportunities facing East Africa in terms of cybersecurity and serves as a valuable resource for anyone interested in this important topic.
+The East African essay section provides a comprehensive view of the cybersecurity landscape in the region, highlighting the efforts of companies like Hormuud and Fortinet to create a safer digital environment. It offers valuable insights into the challenges and opportunities facing East Africa in terms of cybersecurity and serves as a valuable resource for anyone interested in this important topic.
 
  [[Back To Top](#table-of-contents)]
  
@@ -126,7 +126,7 @@ With this project specifically I was able to improve my overall flow and code ma
 
 I will continue to expand, through this repository, potential technological implementations I could see being adopted and utilized. I think it's a region that's often overlooked, despite its rapidly growing digital landscape and untapped potential. There's just so much that could be done to improve cybersecurity in Africa, and I'd love to be a part of that effort. I'm particularly interested in exploring the current state of cybersecurity in different African countries and identifying the common threats and risks faced by businesses and individuals in the region. It's important to look at the effectiveness of existing policies and frameworks as well, to see what's working and what's not. I'm also curious about emerging technologies and trends in Africa and how they may impact cybersecurity in the future. 
 
-Overall, I think there's a lot of opportunity for me to contribute to the field of cybersecurity by conducting research and analysis on the unique challenges and opportunities faced in Africa.
+I think there's a lot of opportunity for me to contribute to the field of cybersecurity by conducting research and analysis on the unique challenges and opportunities faced in Africa.
 
 [[Back To Top](#table-of-contents)]
 
